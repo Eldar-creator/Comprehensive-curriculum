@@ -7,4 +7,5 @@
 
 
 
-[Exercises to each week.pdf](https://github.com/Eldar-creator/Comprehensive-curriculum/files/15150311/Exercises.to.each.week.pdf)
+
+[Exercises.to.each.week..pdf](https://github.com/Eldar-creator/Comprehensive-curriculum/files/15150757/Exercises.to.each.week.pdf)
